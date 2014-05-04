@@ -3,9 +3,9 @@
 
     <string name="app_name">ScreenRecorder</string>
 
-    <string name="notification_recording_title">Screen recording in progress</string>
+    <string name="notification_recording_title">Enregistrement d'écran en cours</string>
 
-    <string name="notification_recording_finished_title">Screen recording saved</string>
+    <string name="notification_recording_finished_title">Capture d'écran enregistrée</string>
     <string name="notification_recording_finished_text">Touch to view %s</string>
 
     <string name="notification_recording_error_title">Screen recorder error</string>
@@ -13,7 +13,7 @@
 
     <string name="notification_video_processing_title">Processing recorded video</string>
 
-    <string name="notification_action_stop_recording">Stop recording</string>
+    <string name="notification_action_stop_recording">Arrêter l'enregistrement</string>
     <string name="notification_action_show_touch">Show touch</string>
 
     <string name="error_unable_to_create_directory">Unable to create output directory.</string>
